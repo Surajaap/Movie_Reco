@@ -1,10 +1,7 @@
-fastapi
-uvicorn
-numpy
+streamlit==1.32.0
+requests
 pandas
+numpy
 scikit-learn
 httpx
 python-dotenv
-requests
-streamlit==1.32.0
-altair==4.2.2
