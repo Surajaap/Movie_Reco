@@ -1,9 +1,10 @@
 fastapi
 uvicorn
-pandas
 numpy
+pandas
 scikit-learn
-python-dotenv
 httpx
+python-dotenv
 streamlit
 requests
+altair==4.2.2
